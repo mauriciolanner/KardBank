@@ -1,0 +1,91 @@
+.bg-principal-azul {
+    background-color: #182957;
+}
+
+.bg-principal-verde {
+    background-color: #01F767;
+}
+
+.principal-azul {
+    color: #182957;
+}
+
+.principal-verde {
+    color: #01F767;
+}
+
+.border-indigo-400 {
+    --tw-border-opacity: 1;
+    border-color: #01F767;
+}
+
+.text-branco {
+    color: #fff !important;
+}
+
+.dropdown-item a {
+    color: #182957 !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.active {
+    color: #01F767 !important;
+}
+
+.btn-principal {
+    background: #01F767;
+    opacity: 1;
+    box-shadow: none;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #000000;
+    border-color: RGBA(0, 0, 0, 1);
+}
+
+.alert-success {
+    color: #182957;
+    background-color: #01f767;
+    border-color: #01f767;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #01f767;
+    background-color: #182957;
+    border-color: #182957;
+}
+
+.btn-options {
+    background-color: #01f767;
+    color: #182957;
+    border-radius: 50px;
+}
+
+.btn-editar {
+    background-color: #182957;
+    color: #fff;
+    border-radius: 50px;
+}
+
+.btn {
+    border-radius: 50px;
+}
+
+.btn-danger {
+    color: #fff;
+}
+
+.load {
+    position: fixed;
+    background-color: #01f768a8;
+    z-index: 9999;
+    top: 0;
+    padding-top: 16%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+}

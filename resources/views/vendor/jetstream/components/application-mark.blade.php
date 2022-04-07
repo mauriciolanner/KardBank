@@ -1,0 +1,1 @@
+<img style="width: 80px" src="{{asset('/img/logo-karbank-branco.png')}}" alt="logo karbank branco">
